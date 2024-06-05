@@ -1,0 +1,2020 @@
+{
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxDataEntityView\\rsmGCXAutoHandledTimesheetsEntity.xml": {
+        "@Timesheet:TSTimesheetTableEntityDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXAccountSetTmp.xml": {
+        "@GCX479": "The GCMainAccountTmp table holds sorted main account records temporarily.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXAllProjTransEntityStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXAutoHandledTimesheetsStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingFeeSetup.xml": {
+        "@GCX459": "The GCBillingFeeSetup table contains all the records for billing fee setup.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingFeeSetupDetail.xml": {
+        "@GCX461": "The GCBillingFeeSetupDetail table holds all the fee setup details.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingFeeSetupStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingGCInvoiceTable.xml": {
+        "@GCX:BillingGCInvoiceDoc": "Table to fill previously the parameters for GC invoice by project\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingIndirectEntriesDbTmp.xml": {
+        "@GCX443": "GCBillingIndirectEntires holds temporary data from project transactions and budget transactions.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingIndirectEntriesTmp.xml": {
+        "@GCX443": "GCBillingIndirectEntires holds temporary data from project transactions and budget transactions.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingPool.xml": {
+        "@GCX419": "GCBillingPool table holds billing pool definitions.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingPoolAccountSet.xml": {
+        "@GCX311": "This table holds the account set names for cost pool allocation.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingPoolAccountSetLines.xml": {
+        "@GCX410": "GCBillingPoolAccountSetLines table holds the account set lines for billing pool account set\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingPoolAccountSetStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingPoolAccountSetVersions.xml": {
+        "@GCX564": "The table GCCostPoolAccountSetVersions holds all the records for Cost pool account set versions and their respective effective dates.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingPoolActualRate.xml": {
+        "@GCX315": "This table holds actual rate calculated for cost pool allocation.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingPoolActualRateCalculated.xml": {
+        "@GCX290": "This table holds the cost pool actual rate calculated.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingPoolActualRateStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingPoolBudgetedRate.xml": {
+        "@GCX438": "GCBillingPoolBudgetedRate holds all the records for the budgeted rates per project and cost pool.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingPoolBudgetedRateStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingPoolDepartmentSet.xml": {
+        "@GCX409": "GCBillingPoolDepartmentSet table holds the department set names for billing pool.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingPoolDepartmentSetLines.xml": {
+        "@GCX291": "This table holds the department set lines for cost pool allocation.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingPoolDepartmentSetStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingPoolDeptSetVersions.xml": {
+        "@GCX564": "The table GCCostPoolAccountSetVersions holds all the records for Cost pool account set versions and their respective effective dates.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingPoolFormula.xml": {
+        "@GCX417": "GCBillingPoolFormula table holds all the billing pool formulae.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingPoolFormulaStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingPoolGroup.xml": {
+        "@GCX421": "GCBillingPoolCalculation table holds billing pool calculation definitions.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingPoolGroupStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXBillingPoolStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCategoryGroupWorkerClassSetup.xml": {
+        "@GCX845": "The GCCategoryGroupWorkerClassSetup table contains records  for category group and worker class code.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostDimensionSetTmp.xml": {
+        "@GCX481": "The GCDimensionTmp table holds sorted dimension records temporarily.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostPoolAccountSet.xml": {
+        "@GCX311": "This table holds the account set names for cost pool allocation.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostPoolAccountSetLines.xml": {
+        "@GCX312": "This table holds the account set lines for cost pool allocation.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostPoolAccountSetStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostPoolAccountSetVersions.xml": {
+        "@GCX564": "The table GCCostPoolAccountSetVersions holds all the records for Cost pool account set versions and their respective effective dates.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostPoolActualRate.xml": {
+        "@GCX315": "This table holds actual rate calculated for cost pool allocation.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostPoolActualRateCalculated.xml": {
+        "@GCX290": "This table holds the cost pool actual rate calculated.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostPoolActualRateStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostPoolAllocation.xml": {
+        "@GCX296": "This table holds the cost pool allocation per cost cost pool.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostPoolAllocationStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostPoolDepartmentSet.xml": {
+        "@GCX309": "This table holds the department set names for cost pool allocation.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostPoolDepartmentSetLines.xml": {
+        "@GCX291": "This table holds the department set lines for cost pool allocation.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostPoolDepartmentSetStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostPoolDeptSetVersions.xml": {
+        "@GCX564": "The table GCCostPoolAccountSetVersions holds all the records for Cost pool account set versions and their respective effective dates.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostPoolGroup.xml": {
+        "@GCX560": "The table GCCostPoolGroup holds all the records for Cost pool allocation groups.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostPoolGroupStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostPoolProvRate.xml": {
+        "@GCX306": "This table holds the cost pool provisional rate setup.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostPoolProvRateStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostPoolTable.xml": {
+        "@GCX316": "This table holds the allocation sequence for the cost pool.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXCostPoolTableStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXDepartmentSetTmp.xml": {
+        "@GCX481": "The GCDimensionTmp table holds sorted dimension records temporarily.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXDimensionTmp.xml": {
+        "@GCX481": "The GCDimensionTmp table holds sorted dimension records temporarily.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXForecastRate.xml": {
+        "@GCX762": "GCForecastRate holds all the records for the forecast rates per project and cost pool.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXFundingLimitTracking.xml": {
+        "@GCX832": "The GCFundingTracking table holds all the funding limit tracking entries.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXFundingTrackingTmp.xml": {
+        "@GCX833": "The GCFundingTrackingTmp table holds all the temporary funding limit tracking entries while processing transactions.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXGovtContractingParameters.xml": {
+        "@GCX93": "GCGovtContractingParameters table holds all the parameters for Government contracting Add-on module.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXGovtContractingParametersStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXMainAccountSetTmp.xml": {
+        "@GCX479": "The GCMainAccountTmp table holds sorted main account records temporarily.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXMainAccountTmp.xml": {
+        "@GCX479": "The GCMainAccountTmp table holds sorted main account records temporarily.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXMarginPercentRevenueTransStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXPayType.xml": {
+        "@GCX95": "GCPayType table holds all details of the pay types.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXPayTypeStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXPolicyStateProvStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjAccountGroup.xml": {
+        "@GCX671": "GCProjAccountGroup table holds all the records for project account group.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjAccountGroupDetail.xml": {
+        "@GCX599": "Table GCProjAccountGroupDetail stores the details of project account group\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjAccountGroupDetailStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjAccountGroupPosting.xml": {
+        "@GCX672": "GCProjAccountGroupPosting table holds all the records for project account groups and posting groups.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjAccountGroupPostingStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjAccountGroupStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjActivityStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjAdminGroupResourcesStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjAdminGroupTableStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjAdminProjectStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjBillingFormula.xml": {
+        "@GCX546": "The GCProjBillingFormula table holds all the records for billing formulae.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjBillingFormulaStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjBillingRetention.xml": {
+        "@GCX578": "The GCProjBillingRetention holds all the records for project billing retention.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjBillingRetentionDetails.xml": {
+        "@GCX584": "The GCProjBillingRetentionDetails holds all the records for lines of project billing retention.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjBillingRetentionStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjBudgetCostOutYears.xml": {
+        "@GCX677": "GCProjBudgetCostOutYears table holds all the records for project budget cost out years.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjCategory.xml": {
+        "@GCX687": "GCProjCategory table holds all the records for ledger accounts(cost and revenue) for project categories.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjCategoryGroupTmp.xml": {
+        "@SYS124891": "The ProjCategoryGroup table groups project categories for easier analysis and inquiries.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjCategoryTablePayTypeSetUpStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjContractType.xml": {
+        "@GCX524": "The GCProjContractType table contains all the values for project contract type.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjContractTypeStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjForecastAllocationSetup.xml": {
+        "@GCX690": "GCProjForecastAllocationSetup table holds all the records for project forecast allocation setup.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjForecastConfigHeader.xml": {
+        "@GCX695": "GCProjForecastConfigHeadertable holds all the records for project forecast config setup.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjForecastConfigLines.xml": {
+        "@GCX702": "GCProjForecastConfigLines holds all the records for project forecast config lines setup.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjForecastPool.xml": {
+        "@GCX758": "GCProjForecastPool table holds all the records for project forecast setup.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjForecastPoolStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjFundingLimit.xml": {
+        "@GCX801": "The table GCProjFundingLimit contains all the records of project funding limit setups.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjFundingLimitModsTracking.xml": {
+        "@GCX814": "The GCProjFundingLimitModsTracking table holds all the records for funding limit changes specific to projects and related activities.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjFundingLimitModsTrackingStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjGroupWorkerClassSetup.xml": {
+        "@GCX235": "The GCProjGroupWorkerClassSetup table contains records for cost accounts setup by project group, pay type and worker class code.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjInvoiceFormatStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjJournalTrans.xml": {
+        "@SYS124922": "The ProjJournalTrans table is used to store the journal lines of project hour or fee journals.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjProjectCategoryCLIN.xml": {
+        "@GCX877": "Project category CLIN\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjProposalAdjustments.xml": {
+        "@GCX466": "The GCProjProposalFee table stores project invoice proposal lines of the other fee transaction type.  The ProjProposalEmpl records are the hour transactions that will be billed to the customer when the invoice proposal is posted.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjProposalFees.xml": {
+        "@GCX466": "The GCProjProposalFee table stores project invoice proposal lines of the other fee transaction type.  The ProjProposalEmpl records are the hour transactions that will be billed to the customer when the invoice proposal is posted.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjProposalIndirect.xml": {
+        "@GCX465": "The GCProjProposalIndirect table stores project invoice proposal lines of the indirect transaction type. The ProjProposalEmpl records are the hour transactions that will be billed to the customer when the invoice proposal is posted.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjRevenueAccrualTrans.xml": {
+        "@GCX821": "The GCProjRevenueAccrualTrans table holds all the records for revenue accrual for revenue recognition.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjRoleResourceStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjScheduleColLayout.xml": {
+        "@GCX712": "GCProjScheduleColLayout holds all the records for project schedule column layout setup.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjScheduleColName.xml": {
+        "@GCX604": "Table GCProjScheduleColName stores project schedule name\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjScheduleLine.xml": {
+        "@GCX725": "GCProjScheduleLine holds all the records for project schedule column layout lines setup.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjScheduleName.xml": {
+        "@GCX602": "Table GCProjScheduleName stores project schedule name\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjTable.xml": {
+        "@GCX552": "GCProjTable table holds all the records extended for ProjTable for Government contracting needs.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjTableStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjTimeJournaCostAcctTmp.xml": {
+        "@GCX726": "GCProjTimeJournaCostlAcctTmp table for GC Time journal report.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjTimeJournalErrorTmp.xml": {
+        "@GCX730": "GCProjTimeJournalTmp table for GC Time journal report.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjTimeJournalTmp.xml": {
+        "@GCX731": "GCProjTimeJournalTmp table for GC Time journal report.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjWorkerDefaultCategory.xml": {
+        "@GCX84": "GCProjWorkerDefaultCategory table holds default categories of workers per project and activity.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjWorkerMaxRate.xml": {
+        "@GCX881": "Project resource max cost\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjWorkerMaxRateStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXProjectStatusTmp.xml": {
+        "Project status report table": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXReportCategory.xml": {
+        "@GCX734": "GCReportCategory holds all the records for report category setups.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXSalesInvoiceFormatStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXSubContHoursTrans.xml": {
+        "@GCX204": "The GCSubContHoursTrans table contains hour transactions for sub contractors.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXTSTimesheetLineStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXTimeDataEntityStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXTimesheetStateProvStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXTrvLocations.xml": {
+        "@SYS124870": "The TrvLocations table contains a list of travel locations for per diem calculations.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXWorkerPayRate.xml": {
+        "@GCX83": "GCWorkerPayRate table holds all the rates and pay cycle salaries of workers.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXWorkerPayRateStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXWorkerToprojLaborCategoryMapping.xml": {
+        "@GCX85": "GCWorkerToprojLaborCategoryMapping table holds default mapping of labor categories to other categories.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXWrkClassCode.xml": {
+        "@GCX99": "GCWrkClassCode table holds all details of the class codes.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxTable\\rsmGCXWrkClassCodeStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\rsmGCX\\rsmGCX\\AxView\\DimAttributersmGCXProjActivity.xml": {
+        "@GCX251": "The DimAttributeGCProjActivity view contains the fields that allow the ProjActivity table to be used as a financial dimension.\n"
+    }
+}{
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxDataEntityView\\BusinessEventsCatalog.xml": {
+        "@BusinessEvents:BusinessEventsCatalog_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxDataEntityView\\DMFDefinitionGroupTemplateHeaderEntity.xml": {
+        "@DMF:DMFTemplateHeaderDocumentation": "This entity contains information about the template header.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxDataEntityView\\DMFDefinitionGroupTemplateLineEntity.xml": {
+        "@DMF:DMFTemplateLineDocumentation": "This entity contains information about the template entity lines.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxDataEntityView\\PrintManagementDestinationEmailEntity.xml": {
+        "@ApplicationFoundation:PrintManagementDestinationEmailEntityDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxDataEntityView\\PrintManagementDestinationEmailV2Entity.xml": {
+        "@ApplicationFoundation:PrintManagementDestinationEmailEntityDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxDataEntityView\\SysAADClientTableEntity.xml": {
+        "@ApplicationFoundation:DataEntity_SysAADClientTableEntity_DeveloperDescription": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxMap\\LogMap.xml": {
+        "@SYS327633": "The LogMap table contains the mapping between the data in the EventCUD table and the SysDatabaseLog table.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxMap\\SysEmailMessageMap.xml": {
+        "@SYS327234": "The SysEmailMessageMap map is used to share the common attributes of the different types of email message in the system.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxMap\\SysExtensionSerializerExtensionMap.xml": {
+        "@GLS223048": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxMap\\SysExtensionSerializerMap.xml": {
+        "@GLS223050": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxMap\\WorkflowStepMap.xml": {
+        "@SYS326559": "The WorkflowStepMap map stores common fields between a workflow approval step and a subworkflow step. This is a legacy map from Microsoft Dynamics AX 2009 and is not used in the Microsoft Dynamics AX 2011 workflow framework.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\AifChangeTrackingDeletedObject.xml": {
+        "@Aif:AifChangeTrackingDeletedObjectHelp": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\AifChangeTrackingTable.xml": {
+        "@SYS336034": "The AifChangeTrackingTable table is a framework table that is used to temporarily store changed keys from application tables. This table should not be customized.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\AifSqlCdcEnabledTables.xml": {
+        "@SYS336036": "The AifSqlCdcEnabledTables table is used to store the names of tables that need to be configured for the SQL Server Change Data Capture feature. An external utility reads this table and updates the SQL Server Configuration.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\AifSqlChangeTrackingEnabledTables.xml": {
+        "@DMF:DMFAifSqlCTEnabledDevDoc": "The AifSqlChangeTrackingEnabledTables table is used to store the change tracking enabled names of tables with respect to data entity.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\AifSqlCtTriggers.xml": {
+        "@SYS344206": "This table stores the name of triggers created for change tracking.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\AifSqlCtVersion.xml": {
+        "@SYS340671": "The AifSqlCtVersion table is used for mapping synchronization times to SQL Server Change Tracking version numbers.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\AifSqlRowVersionChangeTrackingEnabledEntities.xml": {
+        "@Aif:AifSqlRowVersionChangeTrackingEnabledEntitiesHelp": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\AifSqlRowVersionChangeTrackingEnabledTables.xml": {
+        "@Aif:AifSqlRowVersionChangeTrackingEnabledTablesHelp": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\AuthenticationExtendedSessionTokenValidityConfiguration.xml": {
+        "@ApplicationFoundation:AuthenticationExtendedSessionTokenValidityConfiguration_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BIConfiguration.xml": {
+        "@SYS320036": "The BIConfiguration table contains metadata, which allows the generation and update of the SQL Server Analysis Services projects.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BIDateDimension.xml": {
+        "@SYS317714": "The BIDateDimension table stores the names and labels of dimensions and various flags that indicate the attributes available for each dimension.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BIDateDimensionFormatStrings.xml": {
+        "@SYS329254": "The BIDateDimensionFormatStrings table contains strings that are used to create translations for the analysis services date dimensions.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BIDateDimensionTranslations.xml": {
+        "@SYS317715": "The BIDateDimensionTranslations table contains the dates and date value translations for the date dimensions for all cultures. The translations are present for all the .NET cultures.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BIDateDimensionValue.xml": {
+        "@SYS317716": "The BIDateDimensionValue table contains numeric data that is used for the date dimension aggregation in the cubes.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BIDateGregorian.xml": {
+        "@SYS329251": "The BIDateGregorian table contains date values that are used by the analysis services project date dimensions.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BIUdmTranslations.xml": {
+        "@SYS329257": "The BIUdmTranslations table contains the metadata that specifies the languages that are used for translation during the generation of the analysis services projects.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BatchGroupStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BatchJobHistoryStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BatchJobStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BatchServerScheduleStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BpstConfigurationStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BusinessEventsAnalyticEventBundle.xml": {
+        "@BusinessEvents:AnalyticEventsBundle_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BusinessEventsAnalyticEventBundleQueue.xml": {
+        "@BusinessEvents:AnalyticEventsBundleQueue_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BusinessEventsAzureBlobStorageEndpoint.xml": {
+        "@BusinessEvents:BusinessEventsAzureBlobStorageEndpoint_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BusinessEventsAzureEndpoint.xml": {
+        "@BusinessEvents:BusinessEventsAzureEndpoint_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BusinessEventsBundle.xml": {
+        "@BusinessEvents:BusinessEventsBundle_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BusinessEventsBundleQueue.xml": {
+        "@BusinessEvents:BusinessEventsBundleQueue_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BusinessEventsCatalogSecurity.xml": {
+        "@BusinessEvents:CatalogSecurityTableHelp": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BusinessEventsCondition.xml": {
+        "@BusinessEvents:BusinessEventsCondition_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BusinessEventsConfiguration.xml": {
+        "@BusinessEvents:BusinessEventsConfiguration_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BusinessEventsConfigurationStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BusinessEventsEndpoint.xml": {
+        "@BusinessEvents:BusinessEventsEndpoint_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BusinessEventsEndpointStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BusinessEventsEventGridEndpoint.xml": {
+        "@BusinessEvents:BusinessEventsEventGridEndpoint_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BusinessEventsExceptionLog.xml": {
+        "@BusinessEvents:BusinessEventsExceptionLog_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BusinessEventsFlowEndpoint.xml": {
+        "@BusinessEvents:BusinessEventsFlowEndpoint_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BusinessEventsParameters.xml": {
+        "@BusinessEvents:BusinessEventsParameters_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BusinessEventsServiceBusQueueEndpoint.xml": {
+        "@BusinessEvents:BusinessEventsServiceBusQueueEndpoint_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BusinessEventsServiceBusTopicEndpoint.xml": {
+        "@BusinessEvents:BusinessEventsServiceBusTopicEndpoint_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\BusinessEventsTable.xml": {
+        "@BusinessEvents:BusinessEventsTable_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\CDSAIntegrationStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\CatCXMLPunchoutSession.xml": {
+        "@ApplicationFoundation:CatCXMLPunchoutSessionHelp": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ContentType.xml": {
+        "@SYS319674": "The ContentType table contains all of the document file content types.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DEL_SysSetupLog.xml": {
+        "@SYS125367": "The SysSetupLog table contains the log information about the executed checklist items.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFBatchStatusTable.xml": {
+        "@DMF728": "This table contains the batch status\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFCodePageValue.xml": {
+        "@DMF10": "This table contains code page values\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFComparison.xml": {
+        "@SYS4735": "Compare\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFComparisonEntityList.xml": {
+        "@SYS4735": "Compare\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFComparisonLegalEntityList.xml": {
+        "@SYS4735": "Compare\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFComparisonReport.xml": {
+        "@SYS53419": "Comparison\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFComparisonResults.xml": {
+        "@DMF1796": "This table contain the comparison results\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFComparisonResultsDetails.xml": {
+        "@DMF1796": "This table contain the comparison results\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFCompatibilityParameters.xml": {
+        "@DMF:DMFCompatibilityParametersDevDoc": "Options that ensure compatibility with earlier versions of the platform\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFCustomWizardTable.xml": {
+        "@DMF1694": "This table contains the field details of target tables\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDataSource.xml": {
+        "@DMF14": "The table holds the source data format information\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDataSourceProperties.xml": {
+        "@DMF14": "The table holds the source data format information\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDataTypeMapping.xml": {
+        "@DMF748": "Table for data type mapping\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDeDuplicationDetails.xml": {
+        "@DMF:DMFDeDuplicateRecordDetails": "Duplicate record details\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDefinitionGroup.xml": {
+        "@DMF390": "This table contains information about processing groups\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDefinitionGroupAccess.xml": {
+        "@DMF1588": "This table contains information about the security setup to view the processing groups\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDefinitionGroupDataArea.xml": {
+        "@DMF390": "This table contains information about processing groups\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDefinitionGroupEntity.xml": {
+        "@DMF390": "This table contains information about processing groups\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDefinitionGroupEntityTransform.xml": {
+        "@DMF:DMFEntityTransforms": "Entity transforms\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDefinitionGroupEntityXMLFields.xml": {
+        "@DMF364": "This table contains information about the processing group XML fields\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDefinitionGroupExecution.xml": {
+        "@DMF364": "This table contains information about the processing group XML fields\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDefinitionGroupExecutionHistory.xml": {
+        "@DMF364": "This table contains information about the processing group XML fields\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDefinitionGroupExecutionTrace.xml": {
+        "@DMF:DMFDefinitionGroupExecutionTraceHelp": "Map execution id and entity to the SSIS execution id used when enabling tracing.  This is only used when troubleshooting the SSIS portion of an import or export execution\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDefinitionGroupTemplate.xml": {
+        "@DMF390": "This table contains information about processing groups\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDefinitionGroupTemplateEntity.xml": {
+        "@DMF390": "This table contains information about processing groups\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDefinitionGroupTemplateExclusionFields.xml": {
+        "@DMF:DMFTemplateExclusionFieldsDoc": "Template exclusion fields\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDefinitionGroupTemplateHeaderStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDefinitionGroupTemplateLineStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDefinitionGroupTemplateSourceDependency.xml": {
+        "@DMF390": "This table contains information about processing groups\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFDefinitionGroupTemplateSourceEntity.xml": {
+        "@DMF390": "This table contains information about processing groups\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFEntity.xml": {
+        "@DMF392": "This table contains information about entities\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFEntityBaseXML.xml": {
+        "@DMF376": "Information about source XML templates for different source types and entities\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFEntityDbCompareSchema.xml": {
+        "@DMF:DMFCompareSchemaDescription": "This table is used to compare the schemas in entity database.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFEntityDbSyncVersion.xml": {
+        "@DMF:DMFEntitySyncVersion": "This table contains sync version information for the entity.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFEntityExecutionParametersStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFEntityExportDetails.xml": {
+        "@DMF1836": "Compare entity wizard\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFExcelSheetLookup.xml": {
+        "@DMF1723": "The table holds the excel sheet number\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFExecution.xml": {
+        "@DMF375": "Information about execution details\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFFormViewUserParameters.xml": {
+        "@DMF:DMFFormViewParametersDocumentation": "This table contains information about user preferences for the form view.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFParameters.xml": {
+        "@DMF735": "The table is a parameter table for DMF\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFPublishedEntity.xml": {
+        "@DMF:DMFPublisedEntityTable": "The DMFPublishedEntity table contains the basic data of the published entities.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFQueryCriteria.xml": {
+        "@DMF1373": "This table contains information on query criteria\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFRulesTypeEntity.xml": {
+        "@DMF:DMFRulesTypeEntityDocumentation": "Rules type entity\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFSourceXMLToEntityMap.xml": {
+        "@DMF304": "This table contains source XML entity\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFStagingConversionTable.xml": {
+        "@DMF11": "This table contains conversion details\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFStagingErrorCode.xml": {
+        "@DMF629": "DMFStagingErrorCode table holds the staging error codes and descriptions\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFStagingExecutionErrors.xml": {
+        "@DMF631": "The table holds the staging error information for data project and entity\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFStagingFileData.xml": {
+        "@DMF693": "This table contains staging file data\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFStagingLog.xml": {
+        "@DMF307": "This table contains log details information for staging and target\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFStagingLogDetails.xml": {
+        "@DMF307": "This table contains log details information for staging and target\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFStagingTargetLink.xml": {
+        "@SYS4081765": "Links between transactions and parameter combinations of turnover and balances statements\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFStagingValidationLog.xml": {
+        "@DMF:DMFStagingValidationLog": "Staging validation log\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFTargetEntityHierarchy.xml": {
+        "@DMF310": "This table contains the entity hierarchy\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFTargetEntityHierarchyRelation.xml": {
+        "@DMF310": "This table contains the entity hierarchy\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFTargetXML.xml": {
+        "@DMF312": "Target XML information\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFTargetXMLToEntityMap.xml": {
+        "@DMF317": "This table contains the target XML entity map\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFTestHeaderTableStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DMFTestLineTableStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DataAreaTemp.xml": {
+        "@SYS332640": "The DataAreaTemp table stores data area IDs\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DataFeedsBundle.xml": {
+        "@DataFeeds:DataFeedsBundle_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DataFeedsBundleQueue.xml": {
+        "@DataFeeds:DataFeedsBundleQueue_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DataFeedsCommitLog.xml": {
+        "@DataFeeds:DataFeedsCommitLog_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DataFeedsDefinition.xml": {
+        "@DataFeeds:DataFeedsDefinition_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DataFeedsDefinitionChangelist.xml": {
+        "@DataFeeds:DataFeedsDefinitionChangeList_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DataManagementDefinitionGroupDetailStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DataManagementDefinitionGroupStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DataManagementEntityStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DataManagementExecutionJobDetailStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DataManagementExecutionJobStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DataManagementTemplateDetailStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DataManagementTemplateSourceDependencyStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DataManagementTemplateSourceStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DataManagementTemplateStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DocuEnabledTableStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DocuFileTypes.xml": {
+        "@SYS125163": "The DocuFileTypes table contains the file types that can be used in the document management system.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DocuFileTypesStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DocuParameters.xml": {
+        "@SYS125152": "The DocuParameters table contains the setup parameters for document management.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DocuParametersStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DocuRef.xml": {
+        "@SYS125153": "The DocuRef table contains the references between documents and their associated table and record.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DocuTableEnabled.xml": {
+        "@SYS125169": "The DocuTableEnabled table contains the set of tables to which documents can be linked.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DocuTemplate.xml": {
+        "@SYS331747": "The DocuTemplate table contains the document templates that are linked to table records. Each document template defines how a document is managed and stored by the document management system.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DocuType.xml": {
+        "@SYS125156": "The DocuType table contains the document types that are linked to table records. Each document type defines how a document is managed and stored by the document management system.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DocuTypeStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DocuValue.xml": {
+        "@SYS125157": "The DocuValue table contains the documents that have been linked to table records. If the document is stored in an archive folder, it contains the path of the actual document file.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DocuValueMetaData.xml": {
+        "@SYS319673": "The DocuValueMetaData table contains metadata for the document files.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DocumentRoutingClientAppStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DocumentRoutingJobStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DocumentRoutingPrinterStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DualWriteProjectConfigurationStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\DualWriteProjectPartitionMappingStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EPGlobalParameters.xml": {
+        "@SYS125256": "The EPGlobalParameters table contains the global parameter values of all Enterprise Portal sites of MSDAX that define default site behavior.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EPWebSiteParameters.xml": {
+        "@SYS125263": "The EPWebSiteParameters table contains the information about the EP sites such as the URL , their installation type, and site level settings.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EeReadDataBaseLog.xml": {
+        "@GLS220613": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EeSecurityRightsChangeLog.xml": {
+        "@GLS220614": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EmailTemplateMessageOrganizationStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EmailTemplateMessageSystemStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EmailTemplateOrganizationStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EmailTemplateSystemStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EventCUD.xml": {
+        "@SYS125267": "The EventCUD table is used for changed based error messages only. When a user creates, updates, or deletes a record, the information about that event is stored in this table. Records in this table are inserted by the hooks for the database log created, update, and delete events. The records are deleted later by the create, update, delete event processor after the create, update, delete records have been matched against rules.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EventCompanyRule.xml": {
+        "@SYS125284": "The EventCompanyRule table contains references to companies that have the alert rules configured.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EventInbox.xml": {
+        "@SYS125268": "The EventInbox table contains the actual generated error messages.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EventInboxData.xml": {
+        "@SYS125269": "The EventInboxData table contains error message information that can be stored in a binary large object field. For each generated error message that is identified by the DataType enumeration, the following type of information can be stored: the form context information that is used by drilling down to the source of an error message in a form and the rule criteria information which is a EventType* object that has evaluated to true upon rule processing and caused the error message to generate.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EventParameters.xml": {
+        "@SYS125270": "The EventParameters table contains setup parameters for the Alerts module per company.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EventRule.xml": {
+        "@SYS125271": "The EventRule table is the main table for storing error message rules.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EventRuleData.xml": {
+        "@SYS125273": "The EventRuleData table contains rule information that can be stored in a binary large object field. For each rule identified by the DataType enumeration, certain types of information can be stored. These include a packed from query, a packed form context information, and rule criteria information that is a EventType object. It is stored for performance reasons in a separate table.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EventRuleField.xml": {
+        "@SYS125275": "The EventRuleField table contains records for each table and field to be monitored for changes. The tables and fields are monitored through the database log.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EventRuleIgnore.xml": {
+        "@SYS125276": "The EventRuleIgnore table is used for due date error messages to prevent sending out an error message every time that the event processor runs. If a date field is due and an error message is generated, that is recorded in this table.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EventRuleIgnoreAggregation.xml": {
+        "@SYS125285": "The EventRuleIgnoreAggregation table is used for aggregate alerts to prevent sending out a message every time that the event processor runs and the aggregate rule condition is still valid.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EventRuleRel.xml": {
+        "@SYS125278": "The EventRuleRel table contains information about parent data sources for the data source for which a rule has been set up. It holds n records per rule, n is the number of parent data sources plus the data source the rule was set up for.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EventRuleRelData.xml": {
+        "@SYS125279": "The EventRuleRelData table contains information about 0,1, or 2 records per rule for rule relation records in the EventRuleRel table. Namely two packed lists, one for join-fields in both directions, up and down. It is stored in a separate table for performance reasons.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EventSystemParameters.xml": {
+        "@SYS326561": "The EventSystemParameters table contains parameters that are setup for the alerts framework.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EventTmpAlertReport.xml": {
+        "@SYS330024": "The EventTmpAlertReport table stages the alert data before it comes up in the alerts reports.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\EventTmpAlertTrackingReport.xml": {
+        "@SYS330024": "The EventTmpAlertReport table stages the alert data before it comes up in the alerts reports.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ExpressionElement.xml": {
+        "@SYS317143": "The ExpressionElement table contains information about each of the or the and elements that are used in an expression.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ExpressionPredicate.xml": {
+        "@SYS317142": "The ExpressionPredicate table contains information about each of the individual predicates that are used in an expression.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ExpressionProjectionDatasource.xml": {
+        "@SYS317141": "The ExpressionProjectionDatasource table contains metadata information about each of the data sources that are used in an expression.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ExpressionProjectionField.xml": {
+        "@SYS317140": "The ExpressionProjectionField table contains metadata information about each of the fields used in an expression.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ExpressionStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ExpressionStagingTable.xml": {
+        "@SYS326962": "The ExpressionStagingTable table contains each of the invalid expressions after an upgrade has been completed.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ExpressionTable.xml": {
+        "@SYS125291": "The ExpressionTable table contains details about configured expressions.  The XPath query which is executed to perform the boolean evaluation together with other supporting fields are stored in this table.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\FeatureManagementMetadata.xml": {
+        "@FeatureManagement:FeatureManagementMetadataDeveloperDocumentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\FeatureManagementMetadataTranslation.xml": {
+        "@FeatureManagement:FeatureManagementMetadataTranslationDeveloperDocumentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\FeatureManagementParameters.xml": {
+        "@FeatureManagement:FeatureManagementParametersDeveloperDocumentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\FeatureManagementStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\LanguageTxt.xml": {
+        "@SYS123450": "The LanguageTxt table contains translated descriptions of business concepts.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\MyRoles.xml": {
+        "@SYS335254": "The MyRoles table contains the roles to which the user belongs.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\NumberSequenceDataTypeStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\NumberSequenceDatatype.xml": {
+        "@SYS322928": "The NumberSequenceDatatype table is used to store number sequence configuration information about extended data types.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\NumberSequenceDatatypeParameterType.xml": {
+        "@SYS330541": "The NumberSequenceDatatypeParameterType defines a single parameter type in the scope type for a datatype. The set of all NumberSequenceDatatypeParameterType records that are associated with a NumberSequenceDatatype record define the scope type.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\NumberSequenceDeployment.xml": {
+        "@ApplicationFoundation:NumberSequenceDeploymentDeveloperDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\NumberSequenceGroup.xml": {
+        "@SYS330966": "The NumberSequenceGroup tables stores group information for number sequences\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\NumberSequenceGroupRef.xml": {
+        "@SYS330967": "The NumberSequenceGroupRef table stores references to number sequences that are associated with a number sequence group.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\NumberSequenceGroupStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\NumberSequenceHistory.xml": {
+        "@SYS125309": "The NumberSequenceHistory table is used to maintain a history of transactions for the NumberSequence table.  The NumberSequenceHistory table also tracks the action that was take on the respective NumberSequence for which the transaction is being tracked for.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\NumberSequenceList.xml": {
+        "@SYS125304": "The NumberSequenceList table is used only for continuous number sequences. The NumberSequenceList table is used as a cache of continuous number sequences. The NumberSequenceList is used in conjunction with the NumberSequenceTable table.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\NumberSequenceReference.xml": {
+        "@SYS125311": "The NumberSequenceReference table is used to associate a number sequence with an application module. The NumberSequenceReference table is used in conjunction with the NumberSequenceTable table.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\NumberSequenceScope.xml": {
+        "@SYS330540": "The NumberSequenceScope table is used to store scoping information for configured sequences.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\NumberSequenceTTS.xml": {
+        "@SYS125302": "The NumberSequenceTTS table is used only for continuous number sequences. The NumberSequenceTTS table is used to keep track of the number sequence currently reserved using the transaction ID. The NumberSequenceTTS table is used in conjunction with the NumberSequenceList table.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\NumberSequenceTable.xml": {
+        "@SYS125305": "The NumberSequcenTable table contains the running sequence of numbers for all configured sequences. The NumberSequenceTable contains the next sequence number, lowest possible sequence number and the highest possible sequence number for each configured sequence. The NumberSequenceTable is used in conjunction with NumberSequenceReference table.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\PersonTitleTable.xml": {
+        "@SYS124634": "The PersonTitleTable table contains the titles or occupations that are defined for a person.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\PowerBIConfigurationStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\PowerBIFormControlBindingStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\PrintManagementDestinationEmailStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\PrintManagementDestinationEmailV2Staging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\PrintMgmtDocInstance.xml": {
+        "@SYS126117": "The PrintMgmtDocInstance table contains settings for the documents and entities that support print management. This table is used when posting and printing to determine which print management settings to use.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\PrintMgmtIdentificationText.xml": {
+        "@SYS126122": "The PrintMgmtIdentificationText table contains the text that is associated with the print management settings. This text usually appears in the footer of the reports that use print management settings.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\PrintMgmtReportFormat.xml": {
+        "@SYS326920": "The PrintMgmtReportFormat table contains SSRS report names that users can choose from as alternatives for reports that are controlled by print management.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\PrintMgmtSettings.xml": {
+        "@SYS126126": "The PrintMgmtSettings table contains specific print management settings that are applied when a document is printed. When the QueryPacked field is not null, these settings are only used if the query returns results.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateBulkCopyField.xml": {
+        "@SYS329589": "The ReleaseUpdateBulkCopyField table contains all field mappings between the source and the target systems.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateBulkCopyFieldErrors.xml": {
+        "@SYS344886": "The table ReleaseUpdateBulkCopyFieldErrors contains all field mapping errors between the source and target systems.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateBulkCopyFieldOptions.xml": {
+        "@SYS329590": "The ReleaseUpdateBulkCopyFieldOptions table contains options that are used to determine how to copy each field from the source to the target system.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateBulkCopyLog.xml": {
+        "@SYS329591": "The ReleaseUpdateBulkCopyLog table contains runtime information about bulk copy jobs.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateBulkCopyParameters.xml": {
+        "@SYS329592": "The ReleaseUpdateBulkCopyParameters table contains connection information for the source and target systems.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateBulkCopyTable.xml": {
+        "@SYS329593": "The ReleaseUpdateBulkCopyTable table contains all table mappings between the source and the target systems.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateBulkCopyTableExceptions.xml": {
+        "@SYS329594": "The ReleaseUpdateBulkCopyTableExceptions table contains the information to handle special cases for bulk copy jobs.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateBulkFlags.xml": {
+        "@SYS329573": "The ReleaseUpdateBulkFlags table indicates whether the record ID patching has been completed in the source system.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateBulkRefRecIdPatch.xml": {
+        "@SYS329574": "The ReleaseUpdateBulkRefRecIdPatch table contains information on record ID patching from the source system.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateBulkTableInfo.xml": {
+        "@SYS316669": "The ReleaseUpdateBulkTableInfo table contains information about the source tables that will be copied during an upgrade.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateConfigKey.xml": {
+        "@SYS329575": "The ReleaseUpdateConfigKey table contains configuration key information from the source system.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateConfiguration.xml": {
+        "@SYS316670": "The ReleaseUpdateConfiguration table contains configuration options for upgrade.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateDataAreaOffsets.xml": {
+        "@SYS329576": "The ReleaseUpdateDataAreaOffsets table contains the offsets that will be applied for each company during record ID patching.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateDiscoveryStatus.xml": {
+        "@SYS329577": "The ReleaseUpdateDiscoveryStatus table contains information that is used to analyze script dependencies.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateDynamicDependency.xml": {
+        "@SYS329862": "Dynamic table dependencies for some special upgrade scripts\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateExtendedDataTypes.xml": {
+        "@SYS329578": "The ReleaseUpdateExtendedDataTypes table contains extended data type information from the source system.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateJobStatus.xml": {
+        "@SYS125337": "The ReleaseUpdateJobStatus table contains information about the current execution status,start time, and end time of all the scheduled upgrade scripts during the data upgrade process. It also contains a link to the actual batch task responsible for the execution of the upgrade script.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateLog.xml": {
+        "@SYS329859": "The ReleaseUpdateLog table contains general logging messages for the upgrade framework.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateMinorScripts.xml": {
+        "@SYS335314": "The ReleaseUpdateMinorScripts table contains scripts registered by a hotfix or an isv solution.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdatePrioritizedJobs.xml": {
+        "@SYS316671": "The ReleaseUpdatePrioritizedJobs table shows upgrade script tasks that have been identified as priority tasks that are run before other upgrade tasks.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateScriptDependency.xml": {
+        "@SYS125339": "The ReleaseUpdateScriptDependency table contains all dependencies between upgrade scripts. This information is used during the scheduling process to correctly set up the execution order of the upgrade scripts.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateScripts.xml": {
+        "@SYS125340": "The ReleaseUpdateScripts table contains all upgrade scripts to be scheduled for execution during the Data Upgrade process.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateScriptsHistory.xml": {
+        "@SYS322278": "The ReleaseUpdateScriptsHistory table contains the history of all of the upgrade scripts that were run.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateScriptsUsedTables.xml": {
+        "@SYS329579": "The ReleaseUpdateScriptsUsedTables table contains information on the tables that are used by the upgrade scripts.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateSpecialFieldMapping.xml": {
+        "@SYS329580": "The ReleaseUpdateSpecialFieldMapping table contains special field mapping information between the source and target systems.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateSpecialTableMapping.xml": {
+        "@SYS329581": "The ReleaseUpdateSpecialTableMapping table contains special table mapping information between source and target systems.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateSysDeleted.xml": {
+        "@SYS329582": "The ReleaseUpdateSysDeleted table contains tables and fields that are tied to a SysDeletedObjects configuration key in the source system.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateTableRelationType.xml": {
+        "@SYS329588": "The ReleaseUpdateTableRelationType contains information on tables that needed to have their relations updated during upgrade.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateTmpJobStatus.xml": {
+        "@SYS329583": "The ReleaseUpdateTmpJobStatus table is an in memory buffer to process the job status during upgrade.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateTmpVersionInfo.xml": {
+        "@SYS329584": "The ReleaseUpdateTmpVersionInfo table works as an in-memory buffer to process the version information of the source system.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateTransformSourceField.xml": {
+        "@SYS329585": "The ReleaseUpdateTransformSourceField table contains information about the fields that will be shadowed and processed in transformation scripts.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateTransformTable.xml": {
+        "@SYS329586": "The ReleaseUpdateTransformTable table contains information about the transformations that will run during preprocessing on the source system.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateTransformTargetField.xml": {
+        "@SYS329587": "The ReleaseUpdateTransformTargetField table contains information about fields that are going to be copied from their corresponding shadow tables instead of the source table.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\ReleaseUpdateValidation.xml": {
+        "@SYS335309": "The ReleaseUpdateValidation table stores row counts of upgrade tables.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SIGCertificateUsage.xml": {
+        "@SYS330708": "The SIGCertificateUsage table contains certificate usage marker information, such as the signing provider ID and certificate ID.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SIGParameters.xml": {
+        "@SYS330980": "The SigParameters table stores the configuration parameters of the electronic signatures feature.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SIGProcSetup.xml": {
+        "@SYS342439": "The SigProcSetup table stores configurations for custom  electronic signatures procedures.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SIGProcSetupField.xml": {
+        "@SYS330976": "The SigProcSetupField table stores individual field configurations for custom electronic signatures procedures.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SIGReasonCode.xml": {
+        "@SYS330977": "The SigReasonCode table stores a list of reason codes to use for electronic signatures.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SIGSignatureDelegation.xml": {
+        "@SYS330978": "The SigSignatureDelegation table stores the approved designated alternative signers for documents that require electronic signatures.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SIGSignatureFailure.xml": {
+        "@SYS330979": "The SigSignatureFailure table stores the failed attempts of electronic signatures.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SIGSignatureLog.xml": {
+        "@SYS330975": "The SigSignatureLog stores the electronically signed documents that correspond to records in the SysDatabaseLog table.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SRSAnalysisEnums.xml": {
+        "@SYS328285": "The SRSAnalysisEnums table contains the base enumeration metadata that is necessary for the generation and update of the SQL Server Analysis Services projects.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SRSEnabledLanguages.xml": {
+        "@SYS329248": "The SRSEnabledLanguages table contains the languages used to create Analysis Services project translations.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SRSParameterMultiselectTmp.xml": {
+        "@SYS342345": "The SRSParameterMultiselectTmp contains the Parameter Value and Prompt for Multiselect parameters.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SRSReportParameters.xml": {
+        "@SYS329265": "The SRSReportParameters table stores report parameter data to use to run a reporting services report.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SRSReportPrintDestinationSettings.xml": {
+        "@SYS329249": "The SRSReportPrintDestinationSettings table contains information to use to print a Reporting Services report.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SRSReportQuery.xml": {
+        "@BI:ReportQueryHelpText": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SRSTmpDataStore.xml": {
+        "@SYS191318": "The SRSTmpDataStore table is used to store the marshalled temporary tables as containers when passing them across session boundaries.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SRSUpdateOptions.xml": {
+        "@SYS344059": "The SRSUpdateOptions table contains the options used when semantic models are generated.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SRSUserConfiguration.xml": {
+        "@SYS344058": "The SRSUserConfiguration table contains the user configuration used when semantic models are generated.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SecurityLicenseRole.xml": {
+        "@SysSecLabels:SecurityLicenseRoleTableDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SecurityUserRoleDBTempTable.xml": {
+        "@SYS320684": "The SecurityUserRoleDBTempTable temporary table that is used by the automatic role assignment job for storing temporary assignments of users to roles.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SrsReportPreProcessedDetails.xml": {
+        "@SYS327217": "The SrsReportPreProcessedDetails table contains details on a report that was pre-processed and its transaction ID.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\StateMachineLog.xml": {
+        "@StateMachine:LogDocumentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\StateMachineTransitionLog.xml": {
+        "@StateMachine:DeveloperDocumentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysAADClientTableStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysAOSMeasurement.xml": {
+        "@SYS125319": "The SysAOSMeasurement table contains statistical information about the Application Object Server.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysCheckListItemTable.xml": {
+        "@SYS125365": "The SysCheckListItemTable table contains information about checklist items shown in the checklist.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysCheckListTable.xml": {
+        "@SYS125364": "The SysCheckListTable table contains information about the checklists that are currently opened in the system.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysCompanySizeTmp.xml": {
+        "@SYS323904": "The SysCompanySizeTmp table contains information used by the SysCompanySize report.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysDataAreaPrintCollectionsTmp.xml": {
+        "@SYS323902": "The SysDataAreaPrintCollectionsTmp table contains information used by the SysDataAreaPrintCollections report.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysDataExpConfig.xml": {
+        "@SysDataExp:SysDataExpConfig_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysDataExpEventLog.xml": {
+        "@SysDataExp:SysDataExpEventLog_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysDataImpLog.xml": {
+        "@SYS125326": "The SysDataImpLog table contains the log information about attempts to import data.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysDataImpLogRef.xml": {
+        "@SYS125327": "The SysDataImpLogRef table contains log information about the missing references found during data import process runs. When trying to import data, if the system cannot resolve references like RefRecId it logs the error for future analysis by the administrator.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysDatabaseLogStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysDatabaseLogStatistics.xml": {
+        "@DatabaseLog:SysDatabaseLogStatisticsDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysDatabaseLogTmp.xml": {
+        "@SYS323903": "The SysDatabaseLogTmp table contains information used by the SysDatabaseLog report.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysEmailAccountTable.xml": {
+        "@SYS4001169": "This table stores information about Email server access by email accounts.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysEmailAttachmentData.xml": {
+        "@SYP4881776": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysEmailMessageReadContentTable.xml": {
+        "@SYS4001193": "This table stores information about the content of the email messages that have been read from the email server.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysEmailMessageReadTable.xml": {
+        "@SYS4001194": "This table stores information about the email messages that have been read from the email server.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysEmailMessageSystemTable.xml": {
+        "@SYS124669": "The SysEmailMessageSystemTable table contains the message information about the email templates of the system.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysEmailMessageTable.xml": {
+        "@SYS124667": "The SysEmailMessageTable table contains the message information about the email templates.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysEmailParameters.xml": {
+        "@SYS124670": "The SysEmailParameters table contains the SMTP server settings for outgoing email.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysEmailParametersStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysEmailPopClientConstraints.xml": {
+        "@SYS4001162": "This table stores information about the constraints that will be used while reading emails to avoid impacting the server.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysEmailPopClientForbiddenExtension.xml": {
+        "@SYS4001213": "This table stores the attachment extensions that should not be read from the Email server because they may be malicious.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysEmailRead.xml": {
+        "@SYS4001170": "This table stores email read from an email account.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysEmailRetrySchedule.xml": {
+        "@SYS124626": "The SysEmailRetrySchedule table contains the retry schedule for send an email message.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysEmailSMTPPassword.xml": {
+        "@SYS124641": "The SysEmailSMTPPassword table contains the password for the SMTP server, which can be used for a particular AOS instance.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysEmailSystemTable.xml": {
+        "@SYS124668": "The SysEmailSystemTable table contains the email templates of the system.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysEmailTable.xml": {
+        "@SYS124666": "The SysEmailTable table contains the email templates.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysEvent.xml": {
+        "@SYS125172": "The SysEvent table contains system events that are logged by the application class.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysExceptionTable.xml": {
+        "@SYS125168": "The SysExceptionTable contains exceptions that are logged by users of the SysExceptionLog class.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysFileStore.xml": {
+        "@SYS326109": "The SysFileStore table contains grouping records for the SysFileStoreFile records.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysFileStoreFile.xml": {
+        "@SYS326108": "The SysFileStoreFile table contains records for individual files uploaded for or generated by run base processes.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysFileStoreParameters.xml": {
+        "@SYS326107": "The SysFileStoreParameters table contains parameters related to the system file store, including the location of where to store temporary and generated files for later pickup by the user.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysINetTable.xml": {
+        "@SYS125158": "The SysINetTable table contains user Internet and email settings.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysImageTable.xml": {
+        "@SYS125162": "The SysImageTable contains the named images that are used by WebApplication, SysTaskRecorder, and SysResource classes.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysInetThemeTable.xml": {
+        "@SYS125161": "The SysInetThemeTable table contains the definition of Cascading Style Sheets that represent a visual theme that is used by the help and task Pane.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysLabelInterval.xml": {
+        "@SYS123438": "The SysLabelInterval table contains the settings that control the interval of label IDs that are used to create new labels through the label editor in MorphX.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysLastMinuteCheck.xml": {
+        "@SYS330546": "The SysLastMinuteCheck table is used to store results of the checks.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysLicenseCodeSort.xml": {
+        "@SYS125368": "The SysLicenseCodeSort table contains the sorting order that is used to sort license codes.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysMapParameters.xml": {
+        "@SYS327233": "The SysMapParameters table contains the parameter settings for the Bing services integration.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysModelElementModificationHelper.xml": {
+        "@SYS336026": "The SysModelElementModificationHelper is a helper table used to check whether the elements closure for which proxies were generated is up to date.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysOld2NewRecId.xml": {
+        "@SYS330549": "The SysOld2NewRecId table is a persistent map of  old to new record IDs that is created when tables are imported.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysOperationMultiSelectTmp.xml": {
+        "@SYS331981": "The SysOperationMultiSelectTmp table is used to show multiple select control used in the system operation.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysOutgoingEmailData.xml": {
+        "@SYS124625": "The SysOutgoingEmailData table contains the data which is in the outgoing emails.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysOutgoingEmailTable.xml": {
+        "@SYS124624": "The SysOutgoingEmailTable table contains the information about all the emails which are sent or scheduled to be sent.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysRecordTemplateSystemTable.xml": {
+        "@SYS330545": "The SysRecordTemplateSystemTable table is used to store system record templates.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysRecordTemplateTable.xml": {
+        "@SYS330544": "The SysRecordTemplateTable table is used to store record templates.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysSQMDeployment.xml": {
+        "@SYS125301": "The SysSQMDeployment table stores information about the deployment type of the system, such as whether the client, application, or database is installed on the same computer or server as the AOS. It is for the Microsoft usage analysis purpose only, there is no business effect.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysSQMSettings.xml": {
+        "@SYS125330": "The SysSQMSettings table contains information about how to enable Microsoft SQM and upload URL.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysSecClipboard.xml": {
+        "@SYS330551": "The SysSecClipboard table serves as a clipboard in the security UI.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysSecObjectsTmp.xml": {
+        "@SYS341352": "The SysSecObjectsTmp table contains debugging tool information about the security objects related to entry points\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysServerClusterConfigurationStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysServerConfigurationStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysSetupCompanyLog.xml": {
+        "@SYS125322": "The SysSetupCompanyLog table is used by the upgrade framework to track which jobs have been completed for each company.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysSetupPartitionLog.xml": {
+        "@SYS4001044": "The SysSetupPartitionLog table is used by the upgrade framework to track which jobs have been completed for each data partition.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderBusinessValidations.xml": {
+        "@SYS4007345": "Table populating the business validations across the table and class methods\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderFormContext.xml": {
+        "@SysTaskRecorder:FormContextDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderFramework.xml": {
+        "@SYS4007270": "The table holds the details of the various frameworks\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderFrameworkIndustryMap.xml": {
+        "@SYS4007266": "The table is used to do a mapping between frameworks and industry types\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderFrameworkLevel.xml": {
+        "@SYS4007245": "Table contains the details of various levels of a framework\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderFrameworkLine.xml": {
+        "@SYS4007274": "Table contains the details of the nodes of the tree structure\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderIndustry.xml": {
+        "@SYS4007275": "Table contains data of the industry types\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderLineArtifact.xml": {
+        "@SYS4007271": "The table holds data of all the leaf nodes with recordings\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderNode.xml": {
+        "@SysTaskRecorder:NodeDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderNodeAnnotationUserAction.xml": {
+        "@SysTaskRecorder:AnnotationUserActionDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderNodeCommandArgument.xml": {
+        "@SysTaskRecorder:CommandArgumentDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderNodeCommandUserAction.xml": {
+        "@SysTaskRecorder:CommandDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderNodeFormUserAction.xml": {
+        "@SysTaskRecorder:FormUserActionDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderNodeFormUserActionInputOutput.xml": {
+        "@SysTaskRecorder:FormUserActionDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderNodeMenuItemUserAction.xml": {
+        "@SysTaskRecorder:MenuItemUserActionDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderNodePropertyUserAction.xml": {
+        "@SysTaskRecorder:PropertyUserActionDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderNodeScope.xml": {
+        "@SysTaskRecorder:ScopeDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderNodeTaskUserAction.xml": {
+        "@SysTaskRecorder:TaskUserActionDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderNodeUserAction.xml": {
+        "@SysTaskRecorder:NodeUserActionDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderNodeValidationUserAction.xml": {
+        "@SysTaskRecorder:ValidationUserActionDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderParameters.xml": {
+        "@SYS4007276": "Parameters for task recording\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderPopulateTrace.xml": {
+        "@SYS4007347": "Table updating a sequence of classes and tables executed during a business flow\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTaskRecorderRecording.xml": {
+        "@SysTaskRecorder:RecordingDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTestBatchClass.xml": {
+        "@SysTest:SysTestBatchClass_DevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTestBatchClassGroup.xml": {
+        "@SysTest:SysTestBatchClassGroup_DevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTestBatchResults.xml": {
+        "@SysTest:SysTestBatchResults_DevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTestBatchRun.xml": {
+        "@SysTest:SysTestBatchRun_DevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTestClassGroups.xml": {
+        "@SysTest:SysTestClassGroups_DevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTestDataset.xml": {
+        "@SysTest:SysTestDataset_TableDescription": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTestDatasetPartition.xml": {
+        "@SysTest:SysTestDatasetPartition_TableDescription": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTestGroupDependencies.xml": {
+        "@SysTest:SysTestGroupDependencies_DevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTestJobTable.xml": {
+        "@SYS125233": "The SysTestJobTable table contains information about the environment in which the unit tests were executed.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTestLine.xml": {
+        "@SYS344472": "The SysTestLine table contains the results captured during the execution of an unit test method.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTestLineLog.xml": {
+        "@SYS125236": "The SysTestLineLog table contains Information log messages captured during the execution of an unit test method.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTestParameters.xml": {
+        "@SYS125238": "The SysTestParameters table contains parameter settings for MorphX Unit Tests, such as if code coverage should be captured during execution of unit tests.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTestPartition.xml": {
+        "@SysTest:SysTestPartition_DevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTestRecordCleanUp.xml": {
+        "@SYS327063": "The SysTestRecordCleanUp table contains information about data that has been created during the unit test execution and will be deleted again.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTestRecordCountTable.xml": {
+        "@SYS125234": "The SysTestRecordCountTable table contains the results of an executed unit test method.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTestResultsTable.xml": {
+        "@SysTest:SysTestResultsTable_DevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTestTable.xml": {
+        "@SYS125239": "The SysTestTable table contains the results of an executed unit test case.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysTestTransactionIsolation.xml": {
+        "@SysTest:SysTestTransactionIsolation_DevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysUserRequest.xml": {
+        "@SYS334525": "The UserRequest table contains user requests.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysWindowsAzureParameters.xml": {
+        "@SYS4007706": "The SysWindowsAzureParameters table contains the parameter settings for Windows Azure.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysWorkflowElementTable.xml": {
+        "@SYS123299": "The SysWorkflowElementTable table contains the element identity and due date for each element started within workflow instance.  The due date is used to determine whether an element has exceeded its due date.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysWorkflowFaultTable.xml": {
+        "@SYS123300": "The SysWorkflowFaultTable table contains the identity information about a workflow instance to fault.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysWorkflowInstanceTable.xml": {
+        "@SYS123293": "The SysWorkflowInstanceTable table contains all the serialized workflow instances. When a workflow instance becomes idle, the state is serialized by the Microsoft Workflow Runtime and stored by MSDAX.   When a workflow instance becomes active, the Microsoft Workflow Runtime requests the serialized state from MSDAX. The serialized state is stored until the related workflow instance is completed or is canceled.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysWorkflowMessageTable.xml": {
+        "@SYS330025": "The SysWorkflowMessageTable table contains the workflow messages between Finance and Operations and Microsoft Workflow Runtime. A message is connected to a workflow instance. The sender stores the message in the table and the receiver does the work requested by the message and removes the message. Messages are stored until the related workflow instance completes or is canceled.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysWorkflowParameters.xml": {
+        "@SYS125299": "The SysWorkflowParameters table contains settings that are used for workflow. All information in this table is cross company.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysWorkflowTable.xml": {
+        "@SYS123289": "The SysWorkflowTable table contains identity and lock information for each work-in-process workflow instance.  There can be multiple Microsoft Internet Information Server instances each hosting a Microsoft Workflow Runtime instance.  However, a workflow instance can only be used by a single Microsoft Workflow Runtime instance.  Therefore, when a workflow instance is retrieved, it is set to a locked state; when it is saved, it is set to an unlocked state. The work-in-process information is stored until the related workflow instance is completed or is canceled.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SysWorkflowTrackingEntry.xml": {
+        "@SYS311555": "The SysWorkflowTrackingEntry table contains the tracking entries for a single workflow execution cycle.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemGlobalConfigurationStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemGroupStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemParameters.xml": {
+        "@SYS324472": "The SystemParameters table contains the shared settings that are used across all of the companies and modules.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemParametersStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemSecurityDutyCustomizationsStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemSecurityDutyStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemSecurityDutyV2Staging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemSecurityPermissionStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemSecurityPrivilegeCustomizationsStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemSecurityPrivilegeStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemSecurityRoleCustomizationsStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemSecurityRoleDutyStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemSecurityRoleStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemSecuritySubRoleStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemSecuritySubRoleStagingV2.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemSecurityUserRoleAssociationStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemSecurityUserRoleStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemSegregationOfDutiesConflictStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemSegregationOfDutiesRuleStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemUserGroupStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemUserGroupUserListStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\SystemUserStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\TestStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\TmpDMFDefinitionGroupTemplateSourceDependency.xml": {
+        "@DMF390": "This table contains information about processing groups\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\TmpDMFEntityClass.xml": {
+        "@DMF497": "The table is a temporary table for entity\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\UserAddHistoryInfo.xml": {
+        "@SYS330547": "The UserAddHistoryInfo table contains the user add information.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\UserAddHistoryList.xml": {
+        "@SYS330548": "The UserAddHistoryList table contains the user add history.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowActionTable.xml": {
+        "@SYS330019": "The WorkflowActionTable table stores information about the configured actions for a workflow approval or workflow task.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowAssignmentTable.xml": {
+        "@SYS330020": "The WorkflowAssignmentTable table stores information about the assignment settings for a workflow approval step, workflow task, manual decision, or workflow notification.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowAssociation.xml": {
+        "@SYS326562": "The WorkflowAssociation table stores the relationship of a workflow to an organizational unit, legal entity, or another table depending on the association relation of the workflow type.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowElementActionStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowElementEntityStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowElementLinkEntityStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowElementLinkTable.xml": {
+        "@SYS326563": "The WorkflowElementLinkTable stores link metadata for linking two elements within a workflow.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowElementNotificationEntityStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowElementNotificationMessageStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowElementNotificationTable.xml": {
+        "@SYS326564": "The WorkflowElementNotificationTable table stores the list of actions and outcomes for an element that has been configured for notifications.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowElementOutcomeMessageStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowElementOutcomeTable.xml": {
+        "@SYS330026": "The WorkflowElementOutcomeTable table stores information about the configured outcomes for a workflow approval or workflow task.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowElementTable.xml": {
+        "@SYS125300": "The WorkflowElementTable table contains information about a workflow element which is part of a workflow configuration. All information relates to an element itself.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowElementViewState.xml": {
+        "@SYS330021": "The WorkflowElementViewState table stores the layout and positioning information for a given workflow element in a workflow.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowEscalationPathStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowEscalationPathTable.xml": {
+        "@SYS326565": "The WorkflowEscalationPathTable table stores the escalation level and the reference to a configured escalation action for a workflow element.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowEscalationTable.xml": {
+        "@SYS330027": "The WorkflowEscalationTable table stores information about the configured escalation settings for a workflow approval or workflow task.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowIdRelationshipMapping.xml": {
+        "@SYS326566": "The WorkflowIdRelationshipMapping table stores the legacy IDs mapped to the Dynamics 2011 IDs.   During upgrade, some workflow IDs must be regenerated as workflows are no longer stored per company.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowInstantFlowStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowLineItemStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowMaxRuntimeTable.xml": {
+        "@SYS330028": "The WorkflowMaxRuntimeTable table stores information about the configured maximum runtime settings for a workfow approval or workflow task.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowMessageText.xml": {
+        "@SYS125280": "The WorkflowMessageText table contains all messages associated to a workflow configuration. A message can have different types, such as work item subject, work item description, and notification and can exist in multiple languages.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowNotificationStaging.xml": {
+        "@SYS332985": "The WorkflowNotificationStaging table contains references to workflow work items that are candidates for notification aggregation.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowParallelBranchStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowParallelBranchTable.xml": {
+        "@SYS330029": "The WorkflowParallelBranchTable table stores information about the parallel branches that are configured within a workflow.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowParameters.xml": {
+        "@SYS125296": "The WorkflowParameters table contains settings that are used for the workflow. All information in this table is save pr company.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowParametersOrganizationStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowParametersSystemStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowQueueDocumentCommonFields.xml": {
+        "@SYS326567": "The WorkflowQueueDocumentCommonFields table stores the denormalized document data for the workflow documents that have been enabled for queue assignment.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowStatusTrackingTmp.xml": {
+        "@SYS123294": "The WorkflowTrackingTable table contains information about each action or event that affects a workflow instance throughout a life cycle. Each tracking record identifies the workflow item and the action or event.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowStepEntityStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowStepMessageEntityStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowStepTable.xml": {
+        "@SYS125297": "The WorkflowStepTable table contains information about a workflow step which is part of a workflow configuration. All information relates to a step itself.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowSubWorkflow.xml": {
+        "@SYS330030": "The WorkflowSubWorkflow table stores information about the subworkflows that are configured in a workflow.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowSubWorkflowItem.xml": {
+        "@SYS330022": "The WorkflowSubWorkflowItem table stores configuration information about an individual condition in a conditional line item workflow.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowSubWorkflowTable.xml": {
+        "@SYS125290": "The WorkflowSubWorkflowTable table contains information about a subworkflow, which is part of a workflow configuration. This information is used to create an instance of a subworkflow and to create a relation between a parent and a subworkflow document.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowSubworkflowStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowTable.xml": {
+        "@SYS125293": "The WorkflowTable table contains information about a workflow configuration. All information relates to the workflow configuration itself (Name, Version, Activation Condition) is stored in this table.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowTimeSpanTable.xml": {
+        "@SYS330023": "The WorkflowTimeSpanTable table stores information about durations for workflow due dates.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowTmpTrackingReport.xml": {
+        "@SYS337056": "Generate report on workflows that have been initiated\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowTrackingArgumentTable.xml": {
+        "@SYS126841": "The WorkflowTrackingArgumentTable table stores the arguments used to construct a localized version of the tracking message.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowTrackingCommentTable.xml": {
+        "@SYS123298": "The WorkflowTrackingCommentTable table contains detailed tracking descriptions of actions and events.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowTrackingStatusTable.xml": {
+        "@SYS123297": "The WorkflowTrackingStatusTable table contains the identity and status information for all workflows.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowTrackingTable.xml": {
+        "@SYS123294": "The WorkflowTrackingTable table contains information about each action or event that affects a workflow instance throughout a life cycle. Each tracking record identifies the workflow item and the action or event.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowTrackingWorkItem.xml": {
+        "@SYS326554": "The WorkflowTrackingWorkItem table stores tracking information for workflow work items.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowVersionEntityStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowVersionNotesStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowVersionNotificationMessageStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowVersionNotificationStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowVersionNotificationTable.xml": {
+        "@SYS326555": "The WorkflowVersionNotificationTable table stores the list of actions and events for a workflow that has been configured for notifications.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowVersionTable.xml": {
+        "@SYS330031": "The WorkflowVersionTable table stores information that is specific to an individual version of a workflow.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowVersionTableNotes.xml": {
+        "@SYS125298": "The WorkflowVersionTableNotes table contains notes about a workflow configuration.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowWorkItemCommentTable.xml": {
+        "@SYS125288": "The WorkflowWorkItemCommentTable table contains the comments that are related to a work item.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowWorkItemDelegationParameters.xml": {
+        "@SYS125286": "The WorkflowWorkItemDelegationParameters table contains all information about delegations that should be performed for a user. These settings are used when work items are created to auto-delegate work items to other persons.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowWorkItemQueue.xml": {
+        "@SYS317029": "The WorkflowWorkItemQueue table contains the queue definitions that are used for the task assignments.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowWorkItemQueueAssignee.xml": {
+        "@SYS326556": "The WorkflowWorkItemQueueAssignee table stores the list of users that are assigned to a given workflow work item queue.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowWorkItemQueueAssigneeStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowWorkItemQueueAssignmentRuleStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowWorkItemQueueAssignmentStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowWorkItemQueueExpression.xml": {
+        "@SYS330014": "The WorkflowWorkItemQueueExpression table stores information about an individual queue expression.  This information is used to determine the queue to assign a workflow work item.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowWorkItemQueueExpressionDef.xml": {
+        "@SYS330015": "The WorkflowWorkItemQueueExpressionDef table stores information about the set of configured queue expressions including the default queue.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowWorkItemQueueGroup.xml": {
+        "@SYS326557": "The WorkflowWorkItemQueueGroup table stores configuration data for related workflow work item queues.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowWorkItemQueueGroupRelation.xml": {
+        "@SYS326558": "The WorkflowWorkItemQueueGroupRelation table stores the relation between a workflow work item queue group and its contained workflow work item queues.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowWorkItemQueueGroupRelationStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowWorkItemQueueGroupStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowWorkItemQueueStaging.xml": {
+        "@DMF:StagingDeveloperDocumentation": "Data entity staging table\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\WorkflowWorkItemTable.xml": {
+        "@SYS125295": "The WorkflowWorkItemTable table contains all information about work items. This information is used to tell who should do the task and describes what to do.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxTable\\xRefTableRelation.xml": {
+        "@SYS122913": "The xRefTableRelation table contains the relationships between two tables and the fields used by the relationship.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxView\\BICompanyView.xml": {
+        "@sys320577": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxView\\BIDateDimensionTranslationsView.xml": {
+        "@SYS317719": "The BIDateDimensionTranslationsView view is populated with string representations of the date attribute values. The date dimension pulls the data from this view in a SQL Server Analysis Services project.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxView\\BIDateDimensionsView.xml": {
+        "@SYS317718": "The BIDateDimensionsView view holds the date dimension data. The date dimension pulls the data from this view in a SQL Server Analysis Services project.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxView\\BIPartitionsView.xml": {
+        "@GLS200047": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxView\\DMFDGTemplateSourceEntityConfigProgressComputed.xml": {
+        "@DMF:DGTemplateSourceEntityConfigProgressComputedDevDoc": "Calculates percentage of dependencies that passed validation\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxView\\DMFModelElement.xml": {
+        "@DMF834": "The view contains the model element information\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxView\\DocuHistoryListLatestEntryByDocuRefRecIdIntermediateView.xml": {
+        "@ApplicationFoundation:DocuHistoryListLatestEntryByDocuRefRecIdIntermediateViewDeveloperDocumentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxView\\DocuHistoryListLatestEntryByDocuRefRecIdView.xml": {
+        "@ApplicationFoundation:DocuHistoryListLatestEntryByDocuRefRecIdViewDeveloperDocumentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxView\\WorkflowCubeElementLookup.xml": {
+        "@SYS345201": "The WorkflowCubeElementLookup view surfaces workflow element data that enables workflow element lookups within the workflow element report parameters and is also used to slice the workflow transaction data.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxView\\WorkflowCubeLookup.xml": {
+        "@SYS330017": "The WorkflowCubeLookup view surfaces workflow data in a manner that enables workflow lookups within the workflow report parameters.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxView\\WorkflowCubeTransaction.xml": {
+        "@SYS345202": "The WorkflowCubeTransaction view surfaces workflow transaction data used in workflow reports.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationFoundation\\ApplicationFoundation\\AxView\\WorkflowTrackingUserView.xml": {
+        "@SYS342398": "The WorkflowTrackingUserView view is used to aggregate user data from the WorkflowTracking table and the WorkflowTrackingWorkItem table.\n"
+    }
+}{
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\Batch.xml": {
+        "@SYS125390": "The Batch table contains batch task information including the class number to run, parameters, company and whether it should run impersonated or not.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\BatchClassConfigurationOverrides.xml": {
+        "@ProductFramework_Batch:BatchClassConfigurationOverridesDevDocumentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\BatchConstraints.xml": {
+        "@SYS125378": "The BatchConstraints table contains the dependency information between the tasks.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\BatchConstraintsHistory.xml": {
+        "@SYS125374": "The BatchConstraintsHistory table contains historic dependency information between the batch tasks.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\BatchGlobal.xml": {
+        "@SYS125336": "The BatchGlobal table is a control table used to synchronize batch servers.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\BatchGroup.xml": {
+        "@SYS125393": "The BatchGroup table contains batch groups and their descriptions.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\BatchHeartbeat.xml": {
+        "@ApplicationPlatform:BatchHeartbeatDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\BatchHistory.xml": {
+        "@SYS125383": "The DEL_BatchHistory table contains the historic information for batch tasks.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\BatchJob.xml": {
+        "@SYS125377": "The BatchJob table contains batch job information including recurrence, status and description.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\BatchJobAlerts.xml": {
+        "@SYS125370": "The BatchJobAlerts table contains alerts rules for the batch jobs.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\BatchJobBusinessEvents.xml": {
+        "@Sys:BatchJobBusinessEventsTableDevDocumentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\BatchJobHistory.xml": {
+        "@SYS125381": "The DEL_BatchJobHistory table contains the historic information for the batch jobs.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\BatchServerConfig.xml": {
+        "@SYS125372": "The BatchServerConfig table contains batch configuration for all AOS instances in the system. It specifies the start and the end day time and how many concurrent batch tasks can be executed during that period.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\BatchServerGroup.xml": {
+        "@SYS125387": "The BatchServerGroup contains the batch group assignments to AOS instances.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\BatchThrottledClass.xml": {
+        "@ApplicationPlatform:BatchThrottledClassDocumentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\CompanyImage.xml": {
+        "@SYS125039": "The CompanyImage table contains the company logo for each company in the application, which is used in various reports that are seen by external constituents.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\FileUploadConfiguration.xml": {
+        "@SYS:FileUploadConfiguration_DeveloperDocumentation": "The FileUploadConfiguration table contains the shared file upload settings that are used across all of the companies\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\FormRecordLimitAnalyzerExecutionTime.xml": {
+        "@FormRecordLimitAnalyzer:ExecutionTimeTable_Doc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\FormRecordLimitAnalyzerQueue.xml": {
+        "@FormRecordLimitAnalyzer:Queue_Doc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\FormRecordLimitAnalyzerResult.xml": {
+        "@FormRecordLimitAnalyzer:AnalyzerResult_Doc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\FormRunConfiguration.xml": {
+        "@FormRunConfiguration:FormRunConfigurationDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\FormRunConfigurationOptions.xml": {
+        "@FormRunConfiguration:FormRunConfigurationOptionsDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\FormRunConfigurationProperty.xml": {
+        "@FormRunConfiguration:FormRunConfigurationPropertyDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\FormRunConfigurationRole.xml": {
+        "@FormRunConfiguration:FormRunConfigurationRoleDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\FormRunConfigurationUserWorkspace.xml": {
+        "@FormRunConfiguration:FormRunConfigurationUserWorkspaceHelpText": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\FormRunConfigurationViewsSelector.xml": {
+        "@FormRunConfiguration:ManageViewsHelpText": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\LanguageTable.xml": {
+        "@SYS123432": "The LanguageTable contains a list of all languages available on the system.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysClientPerf.xml": {
+        "@SYS326326": "The SysClientPerf table contains the performance options for all clients.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysClusterConfig.xml": {
+        "@SYS328421": "The SysClusterConfig table contains the name and description of a cluster of application object servers.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysDataBaseLog.xml": {
+        "@SYS125316": "The SysDataBaseLog table stores database log entries per operation type for each table with old and new values for the table columns stored in a container in the data field of the table.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysDataBaseLogLines.xml": {
+        "@SYS125394": "The SysDataBaseLogLines table stores database log entries per operation type for each table with old and new values for the container columns.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysDataCacheConfigurationTable.xml": {
+        "@ProductFramework_DataCache:ConfigurationDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysDataCacheContextStructureTable.xml": {
+        "@ProductFramework_DataCache:ContextStructureDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysDataCacheContextTable.xml": {
+        "@ProductFramework_DataCache:ContextDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysDataCacheParameters.xml": {
+        "@ProductFramework_DataCache:ParametersDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysDataChangeDetectionEventTable.xml": {
+        "@ProductFramework_DataChangeDetection:EventTableDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysEntryPointLicenseType.xml": {
+        "@SYS345167": "The SysEntryPointLicenseType table contains collected information about the view and maintain user license types of the entry points in the system\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysFilterStructureTable.xml": {
+        "@ProductFramework_Filter:FilterStructureDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysFilterTable.xml": {
+        "@ProductFramework_Filter:FilterDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysHttpCommunicationCertificate.xml": {
+        "@SysHttpCommunication:CertificateTableDevDocs": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysHttpCommunicationSecServConfig.xml": {
+        "@SysHttpCommunication:SecurityServiceConfigurationDevDocs": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysInfoLogTmp.xml": {
+        "@SYS341995": "The SysInfoLogTmp table contains data from the SysInfoLog form for reporting.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysInfolog.xml": {
+        "@sys342073": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysPerimeterNetworkParams.xml": {
+        "@SYS125242": "The SysPerimeterNetworkParams table contains the perimeter network information to identify the external user Microsoft Entra ID information.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysPersonalization.xml": {
+        "@SYS125175": "The SysPersonalization table contains personalization settings for each user for a given element.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysPickProgressElement.xml": {
+        "@SYS10440": "The SysPickProgressElement table contains lists of elements to pick.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysProgress.xml": {
+        "@SYS125177": "The SysProgress table contains progress information for progress of each operation.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysRemoveConfig.xml": {
+        "@SYS125332": "The SysRemoveConfig table temporarily stores the removed configuration keys during the license loading process.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysRemoveFields.xml": {
+        "@SYS125333": "The SysRemoveFields table temporarily stores the removed table fields during the license loading process.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysRemoveLicense.xml": {
+        "@SYS125334": "The SysRemoveLicense table temporarily stores the removed licenses during the license loading process.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysRemoveTables.xml": {
+        "@SYS125335": "The SysRemoveTables table temporarily stores the removed tables during the license loading process.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysServerConfig.xml": {
+        "@SYS330707": "The SysServerConfig table contains machine-specific information.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysServiceConfigurationSetting.xml": {
+        "@ApplicationPlatform:SysServiceConfigTableDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysSetupLog.xml": {
+        "@SYS125367": "The SysSetupLog table contains the log information about the executed checklist items.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysSignatureSetup.xml": {
+        "@SYS330981": "The SysSignatureSetup table stores electronic signature setup information that correlates the SigProcSetup and the SysDatabaseLog tables.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysSortOrder.xml": {
+        "@SYS125310": "The SysSortOrder table is used in the application startup to determine the maximum character value that is supported by the database.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysTableIdTable.xml": {
+        "@ApplicationPlatform:SysTableIdTableDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysThrottlingPriorityMappingTable.xml": {
+        "@SysThrottling:SysThrottlingPriorityMappingTable_Documentation": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysTraceFiles.xml": {
+        "@SYS338753": "The SysTraceFiles table stores a list of files that were generated via Operations Tracing collection. These files will automatically be removed if the physical file is removed from the system. To view these files you can use Finance and Operations: Trace Parser.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysTraceTable.xml": {
+        "@SYS125318": "The SysTraceTable table stores generic information about every type of Trace event.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysTraceTableSQL.xml": {
+        "@SYS125323": "The SysTraceTableSQL table stores information about database-related trace events. It is populated by using the information that is contained in the SysTraceTable table.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysTraceTableSQLExecPlan.xml": {
+        "@SYS125325": "The SysTraceTableSQLExecPlan table stores information about the trace events that are specific to the query execution plan. It is populated using by using the information that is contained in the SysTraceTable table.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysTraceTableSQLTabRef.xml": {
+        "@SYS125324": "The SysTraceTableSQLTabRef table stores information about the table on which trace events were targeted. It is populated by using the information that is contained in the SysTraceTable table.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysUserInfo.xml": {
+        "@SYS125245": "The SysUserInfo table contains system-wide user option settings for each user.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysUserLicenseCount.xml": {
+        "@SYS345168": "The SysUserLicenseCount table contains collected information about the actual and licensed users count in the system grouped by licensed type\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysUserLicenseList.xml": {
+        "@GLS200059": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\SysUserLog.xml": {
+        "@SYS125243": "The SysUserLog table contains a record of the login and logout operations performed by client sessions.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\TiledataCacheTable.xml": {
+        "@ProductFramework_Tile:DataCacheDevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\TransactionLog.xml": {
+        "@SYS127178": "The TransactionLog table contains an audit trail of all transaction activity in the application.  This centralized view of the summarized transaction information can be used to determine what users have been doing in the application and when they did it.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\UserGroupInfo.xml": {
+        "@SYS125540": "The UserGroupInfo table contains the list of available user groups.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\UserGroupList.xml": {
+        "@SYS125539": "The UserGroupList table contains the list of users associated with each user groups.\n"
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxTable\\UserGuid.xml": {
+        "@ApplicationPlatform:UserGuid_DevDoc": ""
+    },
+    "K:\\AosService\\PackagesLocalDirectory\\ApplicationPlatform\\ApplicationPlatform\\AxView\\SysDataCacheConfigurationView.xml": {
+        "@ProductFramework_DataCache:ConfigurationDevDoc": ""
+    }
+}
